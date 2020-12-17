@@ -27,7 +27,7 @@ $(document).ready(function () {
     });
 
     var Loc = new Typed(".Loc", {
-        strings: ["SaltLake|Ogden|Clearfield"],
+        strings: ["|SaltLake| |Ogden| |Clearfield|"],
         typeSpeed: 30,
         loop: false,
         startDelay: 1000,
